@@ -1,0 +1,77 @@
+[2021-08-09 17:38:23,479] bot.py:548 INFO - Scanning for new posts
+[2021-08-09 17:38:25,829] bot.py:548 INFO - Scanning for new posts
+[2021-08-09 17:38:30,659] bot.py:548 INFO - Scanning for new posts
+[2021-08-09 17:38:32,128] bot.py:548 INFO - Scanning for new posts
+[2021-08-09 17:40:14,073] bot.py:548 INFO - Scanning for new posts
+[2021-08-09 17:40:14,075] bot.py:548 INFO - Last id of vk post is 0
+[2021-08-09 17:40:14,214] bot.py:548 INFO - Got some posts [id:123149-123149]
+[2021-08-09 17:40:14,215] bot.py:548 INFO - [id:123149] Bot is working with this post
+[2021-08-09 17:40:14,216] bot.py:548 INFO - [id:123149] Link(s) was(were) added to post text
+[2021-08-09 17:40:14,217] bot.py:548 INFO - [id:123149] Bot is trying to send post with photo
+[2021-08-09 17:40:14,378] bot.py:548 INFO - [id:123149] Text post (>1024) with photo sent
+[2021-08-09 17:40:14,379] bot.py:548 INFO - New last id of vk post is 123149
+[2021-08-09 17:40:14,381] bot.py:548 INFO - Scanning finished
+[2021-08-09 17:40:14,382] bot.py:548 INFO - Script went to sleep for 3600 seconds
+
+
+[2021-08-09 17:40:36,810] bot.py:548 INFO - Scanning for new posts
+[2021-08-09 17:40:36,813] bot.py:548 INFO - Last id of vk post is 123149
+[2021-08-09 17:40:36,928] bot.py:548 INFO - Got some posts [id:123149-123149]
+[2021-08-09 17:40:36,929] bot.py:548 INFO - New last id of vk post is 123149
+[2021-08-09 17:40:36,929] bot.py:548 INFO - Scanning finished
+[2021-08-09 17:40:36,929] bot.py:548 INFO - Script went to sleep for 3600 seconds
+
+
+[2021-08-09 19:04:19,359] bot.py:548 INFO - Scanning for new posts
+[2021-08-09 19:04:19,360] bot.py:548 INFO - Last id of vk post is 123149
+[2021-08-09 19:04:19,461] bot.py:548 INFO - Got some posts [id:334-334]
+[2021-08-09 19:04:19,463] bot.py:548 INFO - New last id of vk post is 334
+[2021-08-09 19:04:19,464] bot.py:548 INFO - Scanning finished
+[2021-08-09 19:04:19,464] bot.py:548 INFO - Script went to sleep for 120 seconds
+
+
+[2021-08-09 19:05:12,099] bot.py:548 INFO - Scanning for new posts
+[2021-08-09 19:05:12,100] bot.py:548 INFO - Last id of vk post is 334
+[2021-08-09 19:05:12,223] bot.py:548 INFO - Got some posts [id:334-334]
+[2021-08-09 19:05:12,224] bot.py:548 INFO - New last id of vk post is 334
+[2021-08-09 19:05:12,225] bot.py:548 INFO - Scanning finished
+[2021-08-09 19:05:12,225] bot.py:548 INFO - Script went to sleep for 120 seconds
+
+
+[2021-08-09 19:05:46,853] bot.py:548 INFO - Scanning for new posts
+[2021-08-09 19:05:46,854] bot.py:548 INFO - Last id of vk post is 334
+[2021-08-09 19:05:46,963] bot.py:550 ERROR - [IndexError] in checkNewPost(): list index out of range
+[2021-08-09 19:05:46,963] bot.py:548 INFO - Scanning finished
+[2021-08-09 19:05:46,964] bot.py:548 INFO - Script went to sleep for 120 seconds
+
+
+[2021-08-09 19:06:43,812] bot.py:548 INFO - Scanning for new posts
+[2021-08-09 19:06:43,813] bot.py:548 INFO - Last id of vk post is 334
+[2021-08-09 19:06:43,946] bot.py:548 INFO - Got some posts [id:334-334]
+[2021-08-09 19:06:43,947] bot.py:548 INFO - New last id of vk post is 334
+[2021-08-09 19:06:43,947] bot.py:548 INFO - Scanning finished
+[2021-08-09 19:06:43,948] bot.py:548 INFO - Script went to sleep for 120 seconds
+
+
+[2021-08-09 19:08:03,460] bot.py:548 INFO - Scanning for new posts
+[2021-08-09 19:08:03,460] bot.py:548 INFO - Last id of vk post is 334
+[2021-08-09 19:08:03,562] bot.py:548 INFO - Got some posts [id:335-335]
+[2021-08-09 19:08:03,562] bot.py:548 INFO - [id:335] Bot is working with this post
+[2021-08-09 19:08:03,563] bot.py:548 INFO - [id:335] Link(s) was(were) added to post text
+[2021-08-09 19:08:03,564] bot.py:548 INFO - [id:335] Bot is trying to send post with photo
+[2021-08-09 19:08:04,310] bot.py:548 INFO - New last id of vk post is 335
+[2021-08-09 19:08:04,312] bot.py:548 INFO - Scanning finished
+[2021-08-09 19:08:04,314] bot.py:548 INFO - Script went to sleep for 120 seconds
+
+
+[2021-08-09 19:10:04,420] bot.py:548 INFO - Scanning for new posts
+[2021-08-09 19:10:04,421] bot.py:548 INFO - Last id of vk post is 335
+[2021-08-09 19:10:04,520] bot.py:548 INFO - Got some posts [id:336-336]
+[2021-08-09 19:10:04,521] bot.py:548 INFO - [id:336] Bot is working with this post
+[2021-08-09 19:10:04,522] bot.py:548 INFO - [id:336] Link(s) was(were) added to post text
+[2021-08-09 19:10:04,522] bot.py:548 INFO - [id:336] Bot is trying to send post with photo
+[2021-08-09 19:10:05,537] bot.py:548 INFO - New last id of vk post is 336
+[2021-08-09 19:10:05,537] bot.py:548 INFO - Scanning finished
+[2021-08-09 19:10:05,537] bot.py:548 INFO - Script went to sleep for 120 seconds
+
+
