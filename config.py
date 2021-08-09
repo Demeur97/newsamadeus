@@ -3,7 +3,7 @@ tgChannel = "-1001256512153"  # link to the channel in telegram
                      # (you can get channel ID here t.me/username_to_id_bot)
                      # you must add bot to this channel as an administrator
                      # don't forget to add bot to this channel as an administrator!
-tgBotToken = "1829658723:AAFxQoWflrTD1s1GYL-WxrVbZfy-6Kq94D0"  # your bot's token from t.me/BotFather
+tgBotToken = "1868310671:AAEdyGU5-HfF2oPB7yTyCPEIEaZgEThLERc"  # your bot's token from t.me/BotFather
 vkToken = "ef3dec346ac8d3bf090670aa78da8ead4393d75f466d2d5f19f2b7957e7dd9e15cb5ad8cadd3f85142120"  # your token from https://github.com/alcortazzo/vktgbot/wiki/How-to-get-personal-access-token
 vkDomain = "ageofmagicgame"  # domain of vk channel (vk.com/>>>>aaaaaaaa<<<<)
 
@@ -24,7 +24,7 @@ reqFilter = "owner"  # Filter to apply:
                      # "suggests" — suggested posts on a community wall
 
 singleStart = False  # if True bot will stop after  first pass through the loop 
-timeSleep = 60 * 2  # waiting time between cycle passes
+timeSleep = 60 * 5  # waiting time between cycle passes
 isPinned = False
 skipAdsPosts = True  # set True if you want to skip sponsored posts
 skipPostsWithCopyright = False
