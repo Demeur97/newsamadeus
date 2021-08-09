@@ -24,7 +24,7 @@ reqFilter = "owner"  # Filter to apply:
                      # "suggests" — suggested posts on a community wall
 
 singleStart = False  # if True bot will stop after  first pass through the loop 
-timeSleep = 60 * 5  # waiting time between cycle passes
+timeSleep = 60 * 20  # waiting time between cycle passes
 isPinned = False
 skipAdsPosts = True  # set True if you want to skip sponsored posts
 skipPostsWithCopyright = False
