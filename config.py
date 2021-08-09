@@ -1,11 +1,11 @@
-tgChannel = "@testamadeus"  # link to the channel in telegram
+tgChannel = "-1001256512153"  # link to the channel in telegram
                      # or channel ID (for example: tgChannel = -1234567890987)
                      # (you can get channel ID here t.me/username_to_id_bot)
                      # you must add bot to this channel as an administrator
                      # don't forget to add bot to this channel as an administrator!
 tgBotToken = "1829658723:AAFxQoWflrTD1s1GYL-WxrVbZfy-6Kq94D0"  # your bot's token from t.me/BotFather
 vkToken = "ef3dec346ac8d3bf090670aa78da8ead4393d75f466d2d5f19f2b7957e7dd9e15cb5ad8cadd3f85142120"  # your token from https://github.com/alcortazzo/vktgbot/wiki/How-to-get-personal-access-token
-vkDomain = "sevenfineanime"  # domain of vk channel (vk.com/>>>>aaaaaaaa<<<<)
+vkDomain = "ageofmagicgame"  # domain of vk channel (vk.com/>>>>aaaaaaaa<<<<)
 
 tgLogChannel = ""  # link to another channel in telegram if you want to get bot's log message
                         # you can use the same bot as for the main task
